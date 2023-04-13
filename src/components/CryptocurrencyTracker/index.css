@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.main-container {
+  background-color: black;
+  height: 100vh;
+}
+.main-heading {
+  color: #00e7ff;
+  text-align: center;
+  font-size: 60px;
+  margin-top: 20px;
+}
+.main-logo-container {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+}
+.main-logo {
+  width: 90%;
+}

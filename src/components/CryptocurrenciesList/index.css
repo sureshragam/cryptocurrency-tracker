@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+ul {
+  width: 80%;
+  margin: auto;
+  border-color: #00e7ff;
+  border-style: solid;
+  border-width: 2px;
+  padding: 0px;
+}
+.heading-list {
+  color: white;
+  background-color: #092e33;
+  padding: 10px;
+}
+.heading-list h1 {
+  font-size: 30px;
+}
+.spinner {
+  text-align: center;
+}
